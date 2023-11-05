@@ -1,6 +1,6 @@
 # PS-INVENTORY CSS EDIT
 
-I did this to my server but I'm realising it cuz I'm working on a new one. Nothing special, I'm new at this so, if you like it, take it! :)
+I did this for my server but I'm realising it cuz I'm working on a new one. Nothing special, I'm kinda new at all of this so, if you like it, take it! :)
 
 # Previews
 
