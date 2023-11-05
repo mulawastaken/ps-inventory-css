@@ -39,7 +39,7 @@ I did this to my server but I'm realising it cuz I'm working on a new one. Nothi
 * Jay for [decay](https://github.com/tnj-development/inventory)
 * i-kulgu for [updated decay](https://github.com/i-kulgu/qb-inventory-decay)
 * [OnlyCats](https://github.com/onlycats) who helped reorganize and also created some custom images.
-* 
+
 ## Connect with Project Sloth
 
 Join PS [**Discord**](https://discord.gg/projectsloth)
